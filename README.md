@@ -1,0 +1,2 @@
+# DDOS-attack
+pkg update
